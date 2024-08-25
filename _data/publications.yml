@@ -7,3 +7,12 @@ main:
     pdf: https://arxiv.org/pdf/2408.05715
     bibtex: ./assets/files/top-pass.txt 
     image: ./assets/img/top-pass.png
+
+
+  - title: "Think Outside the Code: Brainstorming Boosts Large Language Models in Code Generation"
+    authors: Xin-Ye Li, Jiang-Tian Xue, Zheng Xie, Ming Li
+    conference_short: ARXIV
+    conference: In preprint, 2024.
+    pdf: https://arxiv.org/pdf/2305.10679
+    bibtex: ./assets/files/brainstorm.txt
+    image: ./asserts/img/brainstorm.png

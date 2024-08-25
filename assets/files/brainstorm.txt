@@ -1,0 +1,6 @@
+@article{li2023brainstorm,
+  title={Think outside the code: Brainstorming boosts large language models in code generation},
+  author={Li, Xin-Ye and Xue, Jiang-Tian and Xie, Zheng and Li, Ming},
+  journal={arXiv preprint arXiv:2305.10679},
+  year={2023}
+}
