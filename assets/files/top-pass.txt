@@ -1,0 +1,9 @@
+@article{lyu2024top-pass,
+  author = {Zhi-Cun Lyu, Xin-Ye Li, Zheng Xie, Ming Li},
+  title = {Top Pass: Improve Code Generation by Pass@k-Maximized Code Ranking},
+  publisher = {Front. Comput. Sci.},
+  year = {2024},
+  journal = {Frontiers of Computer Science},
+  url = {https://journal.hep.com.cn/fcs/EN/abstract/article_44396.shtml},
+  doi = {10.1007/s11704-024-40415-w}
+}
