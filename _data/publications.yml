@@ -1,6 +1,6 @@
 main:
 
-  - title: Top Pass: Improve Code Generation by Pass@k-Maximized Code Ranking
+  - title: "Top Pass: Improve Code Generation by Pass@k-Maximized Code Ranking"
     authors: Zhi-Cun Lyu*, <strong>Xin-Ye Li*</strong>, Zheng Xie, Ming Li (*Equal contribution)
     conference_short: FCS
     conference: Frontiers of Computer Science, 2024
