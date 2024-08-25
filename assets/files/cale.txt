@@ -1,0 +1,6 @@
+@inproceedings{sun2023cale,
+  author = {Sun, Hui and Xie, Zheng and Li, Xin-Ye and Li, Ming},
+  booktitle = {The 37th AAAI Conference on Artificial Intelligence},
+  title = {Cooperative and Adversarial Learning: Co-Enhancing Discriminability and Transferability in Domain Adaptation},
+  year = {2023},
+}
