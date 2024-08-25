@@ -19,7 +19,7 @@ main:
 
   - title: "Cooperative and Adversarial Learning: Co-Enhancing Discriminability and Transferability in Domain Adaptatio"
     authors: Hui Sun, Zheng Xie, <strong>Xin-Ye Li</strong>, and Ming Li.
-    conference_sort: AAAI
+    conference_short: AAAI
     conference: In The 37th AAAI Conference on Artificial Intelligence, 2023.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/26182/25954
     bibtex: ./assets/files/cale.txt
