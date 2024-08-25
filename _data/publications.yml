@@ -5,4 +5,5 @@ main:
     conference_short: FCS
     conference: Frontiers of Computer Science, 2024
     pdf: https://arxiv.org/pdf/2408.05715
+    bibtex: ./assets/files/top-pass.txt 
     image: ./assets/img/top-pass.png
