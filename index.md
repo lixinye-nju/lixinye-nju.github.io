@@ -20,3 +20,5 @@ I obstained my Master's degree from LAMDA group in NanJing University in July 20
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/awards.md %}
